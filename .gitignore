@@ -256,6 +256,10 @@ jspm_packages/
 # Snowpack dependency directory (https://snowpack.dev/)
 web_modules/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
 # TypeScript cache
 *.tsbuildinfo
 
